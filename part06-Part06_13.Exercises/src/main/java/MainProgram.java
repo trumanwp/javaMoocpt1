@@ -3,6 +3,10 @@ public class MainProgram {
 
     // update here your exercise progress
     public static int partsCompleted() {
-        return 0;
+        return 2;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("x");
     }
 }
