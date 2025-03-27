@@ -17,5 +17,7 @@ public class ListSize {
             list.add(input);
         }
 
+        System.out.println(list.size());
+
     }
 }

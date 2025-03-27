@@ -17,5 +17,7 @@ public class LastInList {
             list.add(input);
         }
 
+        int num = list.size();
+        System.out.println(list.get(list.size() - 1));
     }
 }

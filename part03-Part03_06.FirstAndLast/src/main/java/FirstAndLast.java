@@ -17,5 +17,6 @@ public class FirstAndLast {
             list.add(input);
         }
 
+        System.out.println(list.get(0) + "\n" + list.get(list.size() - 1));
     }
 }
